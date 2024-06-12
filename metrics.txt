@@ -1,0 +1,7 @@
+test_AUPRC: 0.92337
+test_AUROC: 0.94253
+acc：0.87654
+Specificity: 0.96875
+Sensitivity: 0.97561
+PPV: 0.81633
+NPV: 0.96875
